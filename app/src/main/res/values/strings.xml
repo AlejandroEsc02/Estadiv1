@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Esctadiv1</string>
+    <string name="Log">Login</string>
+    <string name="correo">Email:</string>
+    <string name="contra">Contraseña:</string>
+    <string name="login">Ingresar</string>
+    <string name="regis">Registrarse</string>
+    <string name="Reg">Registro</string>
+    <string name="recontra">Repita Contraseña:</string>
+    <string name="registrar">Registrarse</string>
+    <string name="volver">Volver</string>
+    <string name="miperfil">Mi Perfil</string>
+    <string name="cerrar">Cerrar Sesion</string>
+    <string name="info">Bienvenido a Estadi, el lugar donde podrás compartir tus conocimientos libremente y lo mas importante, ganar mas conocimiento en lo que quieras!</string>
+    <string name="prin">Principal</string>
+    <string name="a" />
+    <string name="princ">Principal</string>
+    <string name="Estadi">Estadi</string>
+</resources>
